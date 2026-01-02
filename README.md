@@ -1,8 +1,8 @@
-# AgletOS: Multi-Agent Orchestration Environment
+# JACQ: Multi-Agent Orchestration Environment
 
-> **Note:** Source code is proprietary. This repository outlines the system architecture.
+> **[Proprietary Architecture - Concept Whitepaper]**
 
-AgletOS is a "Cognitive Operating System" designed to solve context drift in complex logical tasks. It uses a federated agent architecture where a central Orchestrator manages specialized sub-agents.
+JACQ is a "Cognitive Operating System" designed to solve context drift in complex logical tasks. It uses a federated agent architecture where a central Orchestrator manages specialized sub-agents.
 
 ## System Architecture
 
